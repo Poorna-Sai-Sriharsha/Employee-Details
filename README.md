@@ -1,4 +1,4 @@
-## 👤 Employee Details Dashboard
+##  Employee Details Dashboard
 
 ## 🔍 Overview
 **Employee Details Dashboard** is a modern, interactive web application designed to visually manage, analyze, and document employee information. Built with **React**, **Vite**, **Recharts**, **React-Leaflet**, and **React-Webcam**, this project transforms standard employee directories into an engaging, feature-rich experience—including geographical map plotting, statistical graph insights, and live photo capture capabilities directly from the browser. 
@@ -8,14 +8,14 @@ Perfect for HR personnel, managers, or developers looking to build full-featured
 ![Employee Dashboard Preview](screenshot.png) *(Note: Please add a screenshot of your app here and name it `screenshot.png`)*
 
 ## ✨ Features
-  - ✅ **Interactive Employee List** – Clean, responsive table view of all personnel with core details.
-  - ✅ **Live Photo Capture** – Integrated WebRTC-based camera feed to take and attach employee profile pictures on the fly.
-  - ✅ **Geographical Map View** – Visual representation of employee locations across different cities using Leaflet maps.
-  - ✅ **Analytical Graph Dashboard** – Beautiful, interactive charts visualizing employee demographics and salary distributions using Recharts.
-  - ✅ **Detailed Profiles** – Dedicated view for individual employee statistics, IDs, and attached media.
-  - ✅ **Clean Routing** – Seamless Single Page Application (SPA) navigation powered by React Router.
-  - ✅ **Beautiful UI Icons** – Polished, modern interface utilizing Lucide React icons.
-  - ✅ **Fully Responsive Design** – Clean CSS layout that works natively on both desktop and mobile browsers.
+  -  **Interactive Employee List** – Clean, responsive table view of all personnel with core details.
+  -  **Live Photo Capture** – Integrated WebRTC-based camera feed to take and attach employee profile pictures on the fly.
+  -  **Geographical Map View** – Visual representation of employee locations across different cities using Leaflet maps.
+  -  **Analytical Graph Dashboard** – Beautiful, interactive charts visualizing employee demographics and salary distributions using Recharts.
+  -  **Detailed Profiles** – Dedicated view for individual employee statistics, IDs, and attached media.
+  -  **Clean Routing** – Seamless Single Page Application (SPA) navigation powered by React Router.
+  -  **Beautiful UI Icons** – Polished, modern interface utilizing Lucide React icons.
+  -  **Fully Responsive Design** – Clean CSS layout that works natively on both desktop and mobile browsers.
     
 ## 🧠 How It Works
   - The app uses **Vite** as a lightning-fast build tool to serve the React application.
