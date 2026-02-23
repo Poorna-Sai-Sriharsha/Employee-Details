@@ -5,7 +5,7 @@
 Perfect for HR personnel, managers, or developers looking to build full-featured, modular React applications.
 
 ## 📸 Screenshot
-![Employee Dashboard Preview](screenshot.png) *(Note: Please add a screenshot of your app here and name it `screenshot.png`)*
+![Employee Dashboard Preview](employee-details.png) 
 
 ## ✨ Features
   -  **Interactive Employee List** – Clean, responsive table view of all personnel with core details.
