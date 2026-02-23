@@ -47,7 +47,7 @@ To run the Employee Details Dashboard locally:
    ```
 2. **Navigate to the Project Directory:**
   ```bash
-  cd Employee-Details
+   cd Employee-Details
   ```
 3. **Install Dependencies:**
    ```bash
